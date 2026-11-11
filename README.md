@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Troy! 👋
 
-<!--
-**mcinerneytroy-spec/mcinerneytroy-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity and technology risk professional with 10+ years of experience in IT risk, security governance, compliance, and control assessments.
 
-Here are some ideas to get you started:
+I'm currently expanding my technical skills in artificial intelligence, automation, and AI agent development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas I'm Learning
+- Generative AI and large language models
+- Prompt and context engineering
+- AI agents and workflow automation
+- Python and APIs
+- AI security and governance
+- Google Cloud and AI application development
+
+## Current Focus
+Building practical AI applications that improve security operations, risk management, and business workflows.
+
+## Projects
+Projects and demonstrations coming soon as I progress through my AI training.
+
+## Connect
+https://www.linkedin.com/in/troymcinerney/
